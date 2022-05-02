@@ -1,3 +1,11 @@
+---Generic Base Sınıfları Eklenmiştir DI kısmında Route @Primary Tanımlanmıştır---
+---Base Entity ID için extend edilmiştir, JPA içinde aynı base işlemler yapılmıştır,Generic olmayan Rest servisleri örnekle implement edilmiştir---
+
+
+
+
+
+
 <h1 align="left"> Trendyol Fleet Management </h1>
 
 <h3 align="left">Backend Application </h3>
