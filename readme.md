@@ -7,7 +7,7 @@
 
 
 
-<h1 align="left"> Trendyol Fleet Management </h1>
+<h1 align="left">Fleet Management </h1>
 
 <h3 align="left">Backend Application </h3>
 
